@@ -1,11 +1,28 @@
-- 👋 Hi, I’m @ChaitanyaGhadling
-- 👀 I’m interested in work done in Data Science domain.
-- 🌱 I’m MS graduate in Data Science from New Jersey Institute of Technology.
-- 💞️ I’m looking to collaborate on Computer Vision Projects. 
-- Have project repositories on projects in Data Analytics, Data Visualization, Machine Learning, Deep Learning(GAN), NLP, Software Engineering(Java, Python). 
-- 📫 You can mail me @ chaitanyaghadling@gmail.com
+Chaitanya Ghadling
+Hi there! 👋 I'm Chaitanya Ghadling, a Data Science enthusiast with a focus on Data Science projects. I recently completed my MS degree in Data Science from the New Jersey Institute of Technology.
 
-<!---
-ChaitanyaGhadling/ChaitanyaGhadling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Interests
+Data Science
+Machine Learning
+Deep Learning
+Computer Vision
+Natural Language Processing (NLP)
+Data Analytics
+Data Visualization
+Software Engineering (Java, Python)
+Projects
+I have worked on a variety of projects in the following areas:
+
+Data Analytics
+Data Visualization
+Machine Learning
+Deep Learning (GAN)
+Natural Language Processing (NLP)
+Software Engineering (Java, Python)
+Collaboration
+I'm always looking to collaborate on exciting projects, especially those related to Computer Vision. If you have a project in mind and think I can contribute, feel free to reach out to me. I'm open to collaborations and eager to work with others in the Data Science community.
+
+Contact
+You can reach me at chaitanyaghadling@gmail.com. Please feel free to email me if you have any questions, project proposals, or just want to connect. I'm looking forward to hearing from you!
+
+Let me know if you need any further assistance!
