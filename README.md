@@ -2,7 +2,7 @@
 - 👀 I’m interested in work done in Data Science domain.
 - 🌱 I’m MS graduate in Data Science from New Jersey Institute of Technology.
 - 💞️ I’m looking to collaborate on Computer Vision Projects. 
-- Have project repositories on projects in Data Analytics, Data Visualization, Machine Learning, Deep Learning(GANS), NLP, Software Engineering(Java, Python). 
+- Have project repositories on projects in Data Analytics, Data Visualization, Machine Learning, Deep Learning(GAN), NLP, Software Engineering(Java, Python). 
 - 📫 You can mail me @ chaitanyaghadling@gmail.com
 
 <!---
