@@ -5,23 +5,26 @@ Hi there! 👋 I'm Chaitanya Ghadling, a Data Science enthusiast with a focus on
 ## Interests
 
 - Data Science
+- Data Analytics
+- Data Visualization
+- Database Management
 - Machine Learning
 - Deep Learning
 - Computer Vision
 - Natural Language Processing
-- Data Analytics
-- Data Visualization
+
 
 ## Projects
 
 I have worked on a variety of projects in the following areas:
 
-- Data Analytics
-- Data Visualization
-- Machine Learning
-- Deep Learning (GAN)
-- Natural Language Processing (NLP)
-- Software Engineering (Java, Python)
+- Data Analytics --- CentralizedDatabase 
+- Data Visualization --- TableauProject
+- Software Engineering / DataBase (Java, Python) --- JavaProjects / Yash-Agency-App.
+- Machine Learning --- TwitterSentimentAnalysis / FakeNewsDetection / End_to_end_ML
+- Deep Learning (GAN) --- AttentionGAN 
+- Natural Language Processing (NLP) --- FakeNewsDetection / TwitterSentimentAnalysis
+
 
 ## Collaboration
 
