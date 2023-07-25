@@ -20,7 +20,7 @@ I have worked on a variety of projects in the following areas:
 - Natural Language Processing (NLP) --- FakeNewsDetection / TwitterSentimentAnalysis
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=wimpywarlord&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" />
+    <img src="https://komarev.com/ghpvc/?username=ChaitanyaGhadling&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" />
 </p>
 
 
