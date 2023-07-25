@@ -4,15 +4,10 @@ Hi there! 👋 I'm Chaitanya Ghadling, a Data Science enthusiast. I recently com
 
 ## Interests
 
-- Data Science
-- Data Analytics
-- Data Visualization
-- Database Management
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-
+- Data Science                                              - Machine Learning
+- Data Analytics                                            - Deep Learning
+- Data Visualization                                        - Computer Vision
+- Database Management                                       - Natural Language Processing
 
 ## Projects
 
