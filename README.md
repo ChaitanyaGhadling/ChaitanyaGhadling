@@ -1,6 +1,6 @@
 # Chaitanya Ghadling
 
-Hi there! 👋 I'm Chaitanya Ghadling, a Data Science enthusiast with a focus on Computer Vision projects. I recently completed my MS degree in Data Science from the New Jersey Institute of Technology.
+Hi there! 👋 I'm Chaitanya Ghadling, a Data Science enthusiast. I recently completed my MS degree in Data Science from the New Jersey Institute of Technology and am looking to join a team where I can provide value and grow.
 
 ## Interests
 
