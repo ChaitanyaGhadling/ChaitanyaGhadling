@@ -4,8 +4,7 @@ Greetings! 👋 I go by the name of Chaitanya Ghadling—an ardent aficionado of
 <br>
 I'm now on the hunt for a dynamic team where I can unleash my potential, add value, and flourish like a data-driven wizard! 🧙‍♂️📊 Let's weave insights together and conquer new frontiers! 🚀
 ## Interests
-<div>
-    <ul class="columns" data-columns="2">
+<ul class="columns" data-columns="2">
         <li>A</li>
         <li>B</li>
         <li>C</li>
@@ -13,8 +12,7 @@ I'm now on the hunt for a dynamic team where I can unleash my potential, add val
         <li>E</li>
         <li>F</li>
         <li>G</li>
-    </ul>
-</div>
+</ul>
 
 <div style="float: left; width: 50%;">
 <ul>
