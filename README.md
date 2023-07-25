@@ -1,7 +1,6 @@
 # Chaitanya Ghadling
 
-Hi there! 👋 I'm Chaitanya Ghadling, a Data Science enthusiast. I recently completed my MS degree in Data Science from the New Jersey Institute of Technology and am looking to join a team where I can provide value and grow.
-
+Greetings! 👋 I go by the name of Chaitanya Ghadling—an ardent aficionado of all things Data Science. Armed with a freshly minted MS degree in Data Science from the esteemed New Jersey Institute of Technology, I'm now on the hunt for a dynamic team where I can unleash my potential, add value, and flourish like a data-driven wizard! 🧙‍♂️📊 Let's weave insights together and conquer new frontiers! 🚀
 ## Interests
 
 - Data Science                                              - Machine Learning
