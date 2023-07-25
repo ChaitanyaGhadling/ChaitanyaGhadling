@@ -12,7 +12,7 @@ I'm now on the hunt for a dynamic team where I can unleash my potential, add val
 <li>Database Management</li>
 </ul>
 </div>
-<div style="float: right; width: 50%;">
+<div style="float: right; width: 60%;">
 <ul>
 <li>Machine Learning</li>
 <li>Deep Learning</li>
