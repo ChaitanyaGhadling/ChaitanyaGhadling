@@ -1,4 +1,3 @@
-    # Chaitanya Ghadling
 
 Greetings! 👋 I go by the name of Chaitanya Ghadling—an ardent aficionado of all things Data Science. Armed with a freshly minted MS degree in Data Science from the esteemed New Jersey Institute of Technology.
 <br>
