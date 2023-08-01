@@ -30,5 +30,5 @@ I'm always looking to collaborate on exciting projects, especially those related
 You can reach me at **chaitanyaghadling@gmail.com**. Please feel free to email me if you have any questions, project proposals, or just want to connect. I'm looking forward to hearing from you!
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ChaitanyaGhadling&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" />
+    <img src="https://komarev.com/ghpvc/?username=ChaitanyaGhadling&label=Profile%20views&color=0e75b6&style=flat" alt="---" />
 </p>
